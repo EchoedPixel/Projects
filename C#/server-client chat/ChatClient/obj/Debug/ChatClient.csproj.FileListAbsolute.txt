@@ -1,0 +1,21 @@
+G:\college\college\sem 4\OS\Projects test\ChatClient\bin\Debug\ChatClient.exe.config
+G:\college\college\sem 4\OS\Projects test\ChatClient\bin\Debug\ChatClient.exe
+G:\college\college\sem 4\OS\Projects test\ChatClient\bin\Debug\ChatClient.pdb
+G:\college\college\sem 4\OS\Projects test\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+G:\college\college\sem 4\OS\Projects test\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+G:\college\college\sem 4\OS\Projects test\ChatClient\obj\Debug\ChatClient.exe
+G:\college\college\sem 4\OS\Projects test\ChatClient\obj\Debug\ChatClient.pdb
+G:\college\college\sem 4\Operating System\Projects\ChatClient\bin\Debug\ChatClient.exe.config
+G:\college\college\sem 4\Operating System\Projects\ChatClient\bin\Debug\ChatClient.exe
+G:\college\college\sem 4\Operating System\Projects\ChatClient\bin\Debug\ChatClient.pdb
+G:\college\college\sem 4\Operating System\Projects\ChatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+G:\college\college\sem 4\Operating System\Projects\ChatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+G:\college\college\sem 4\Operating System\Projects\ChatClient\obj\Debug\ChatClient.exe
+G:\college\college\sem 4\Operating System\Projects\ChatClient\obj\Debug\ChatClient.pdb
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\bin\Debug\ChatClient.exe.config
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\bin\Debug\ChatClient.exe
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\bin\Debug\ChatClient.pdb
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\obj\Debug\chatClient.csproj.AssemblyReference.cache
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\obj\Debug\ChatClient.exe
+G:\college\college\sem 4\Operating System\Projects\project 2\ChatClient\obj\Debug\ChatClient.pdb
