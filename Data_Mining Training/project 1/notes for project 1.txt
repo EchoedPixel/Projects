@@ -1,0 +1,30 @@
+Problems:
+-total sales
+profit = sales - cost
+sales = price * quantity
+
+
+#Orders
+Total Quantity
+top/bottom 10 products by sale/quantity/orders
+top/bottom customers 
+#orders by payment (cash/online)
+#orders by sale type
+
+
+
+-DATA Cleaning
+Name of columns
+Data Types
+NULLS
+Duplicates
+Inconsistence data (names ,cost,... in columns they shouldn't!)
+outliers
+
+-DATA Transformation
+integrate data
+New Columns >> Sales = Quantity * PRICE ,
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Notes:
+Extract-Transform-Load ----> power query is like excel but better, using m-language---------> DAX
